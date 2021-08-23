@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Seth Zippel
+title: Seth Zippel (he/him)
 
 # Username (this should match the folder name)
 authors:
