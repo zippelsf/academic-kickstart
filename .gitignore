@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+# ipynotebooks
+*ipynb_checkpoints*
