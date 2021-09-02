@@ -53,4 +53,4 @@ user_groups: []
 #- Principal Investigators
 ---
 
-Our lab seeks to improve understanding of environmental fluid mechanics through using novel data and measurement techniques in the field. We are a part of COFDL in the Applied Ocean Physics and Engineering department at Woods Hole Oceanographic Institution. Topics off interest include turbulence, waves, boundary layers, air/sea interactions, near-shore processes, and sea ice.
+Our lab seeks to improve understanding of environmental fluid mechanics through using novel data and measurement techniques in the field. We are a part of COFDL in the Applied Ocean Physics and Engineering department at Woods Hole Oceanographic Institution. Topics of interest include turbulence, waves, boundary layers, air/sea interactions, near-shore processes, and sea ice.
