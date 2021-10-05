@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Assitant Scientist"
+role: "Assistant Scientist"
 
 # Organizations/Affiliations
 organizations:
