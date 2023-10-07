@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Woods Hole Oceanographic Institution
-  url: "https://www.whoi.edu/"
+- name: CEOAS @ Oregon State University
+  url: "https://ceoas.oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: The Zippel lab studies air/sea interactions, including waves and turbulence at the ocean surface.
@@ -53,4 +53,4 @@ user_groups: []
 #- Principal Investigators
 ---
 
-Our lab seeks to improve understanding of environmental fluid mechanics through using novel data and measurement techniques in the field. We are a part of COFDL in the Applied Ocean Physics and Engineering department at Woods Hole Oceanographic Institution. Topics of interest include turbulence, waves, boundary layers, air/sea interactions, near-shore processes, and sea ice.
+Our lab seeks to improve understanding of environmental fluid mechanics through using novel data and measurement techniques in the field. We are a part of the Physics of Oceans and Atmospheres (POA) discipline group in the College of Earth, Ocean and Atmospheric Sciences (CEOAS) at the Oregon State University. Topics of interest include air/sea interactions, turbulence, waves, boundary layers,  near-shore processes, and sea ice.

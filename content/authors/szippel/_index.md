@@ -10,15 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: "Assistant Scientist"
+role: "Assistant Professor"
 
 # Organizations/Affiliations
 organizations:
-- name: Woods Hole Oceanographic Institution
-  url: "https://www.whoi.edu/"
+- name: Oregon State University
+  url: "https://ceoas.oregonstate.edu/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: Seth is an Assistant Scientist at the Woods Hole Oceanographic Institution, and part of the Coastal Ocean Fluid Dynamics Lab (COFDL). He studies air/sea interactions, including waves and turbulence at the ocean surface.
+bio: Seth is an Assistant Professor at Oregon State University, and part of the Physics of Oceans and Atmospheres discipline group. He studies air/sea interactions, including waves and turbulence at the ocean surface. He is also an Adjunct at Woods Hole Oceanographic Institution.
 
 interests:
 - Air-sea interactions
@@ -70,5 +71,5 @@ user_groups:
 - Principal Investigators
 ---
 
-Seth Zippel is an Assistant Scientist at the Woods Hole Oceanographic Institution in the Applied Ocean Physics and Engineering department. Seth studies how the ocean and the atmosphere interact using field measurements from a diverse set of regions including estuaries, the open ocean, and the Arctic. Air-sea interactions are heavily influenced by waves, wave breaking, and turbulent processes in the upper ocean, and these processes ultimately are important for prediction of weather, climate, and sea state. When Seth is not in the lab, he is out surfing or learning to kiteboard in Cape Cod's Waquoit Bay.
+Seth Zippel is an Assistant Professor at Oregon State University in the College of Earth, Ocean, and Atmospheric Sciences (CEOAS). Seth studies how the ocean and the atmosphere interact using field measurements from a diverse set of regions including estuaries, the open ocean, and the Arctic. Air-sea interactions are heavily influenced by waves, wave breaking, and turbulent processes in the upper ocean, and these processes ultimately are important for prediction of weather, climate, and sea state. When Seth is not in the lab, he enjoys hiking, biking, surfing, and rowing.
 
