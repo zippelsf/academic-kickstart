@@ -15,7 +15,8 @@ This code is used to create the Zippel Lab website: https://zippelsf.github.io/
 ## Add a publication
 - We are using: https://github.com/wowchemy/hugo-academic-cli (also see https://wowchemy.com/docs/content/publications/)
 - install academic with pip3
-- use the command:  `academic import --bibtex ./static/pubs/publist.bi`
+- use the command:  `academic import --bibtex ./static/pubs/publist.bib`
+- (Hint: make sure academic is in your path - issues after OS updates)
 
 ## Troubleshooting
 - Issues with making a local hugo server, with error: `failed to extract shortcode: template for shortcode "alert" not found` try clearing the cache with:

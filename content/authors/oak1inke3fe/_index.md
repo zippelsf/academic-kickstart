@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "PhD Student"
+role: "Master's Student"
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ education:
   - course: B.S. in Marine and Atmospheric Science 
     institution: University of Miami, Rosenstiel School of Marine and Atmospheric Science
     year: 2020
+  - course: M.S. in Physical Oceanography 
+    institution: MIT/WHOI Joint Program
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,8 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Former Students
 ---
 
-Oaklin Keefe is a graduate student in the Woods Hole Oceanographic Institution and Massachusetts Institute of Technology's Joint PhD Program. Oaklin is in the Physical Oceanography department at WHOI, and Earth, Atmospheric, and Planetary Sciences department at MIT. Oaklin is working with Dr. Seth Zippel to study air-sea interaction. Air-sea interactions are heavily influenced by waves, wave breaking, and turbulent processes in the upper ocean, and these processes ultimately are important for prediction of weather, climate, and sea state. When Oaklin is not in the lab, they like to sail, play guitar, and forecast weather for water sports.
+Oaklin Keefe graduated with a master's degree from the Woods Hole Oceanographic Institution and Massachusetts Institute of Technology's Joint Program. Oaklin worked with Seth to study air-sea interaction on the Buzzards Bay Experiments. Air-sea interactions are heavily influenced by waves, wave breaking, and turbulent processes in the upper ocean, and these processes ultimately are important for prediction of weather, climate, and sea state. When Oaklin is not in the lab, they like to sail, play guitar, and forecast weather for water sports.
 
