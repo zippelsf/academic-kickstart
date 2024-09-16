@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Former Students
+- Alumni
 ---
 
 Oaklin Keefe graduated with a master's degree from the Woods Hole Oceanographic Institution and Massachusetts Institute of Technology's Joint Program. Oaklin worked with Seth to study air-sea interaction on the Buzzards Bay Experiments. Air-sea interactions are heavily influenced by waves, wave breaking, and turbulent processes in the upper ocean, and these processes ultimately are important for prediction of weather, climate, and sea state. When Oaklin is not in the lab, they like to sail, play guitar, and forecast weather for water sports.

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "PhD Candidate "
+role: "PhD Candidate"
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Student 
+- Lab Members 
 ---
 
 Emily E. Hayden (Hayden) is a PhD candidate at Oregon State University, and is a part of the Physics of Oceans and Atmospheres discipline group. She studies large-scale, high-latitude air-sea interactions and their role in climate variability and change in the Bering Sea. When Hayden is not in the lab, she enjoys mountain biking, gardening, skiing, and reading. 
