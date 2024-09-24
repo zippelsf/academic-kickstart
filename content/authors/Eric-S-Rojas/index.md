@@ -15,13 +15,13 @@ role: "PhD Student"
 # Organizations/Affiliations
 organizations:
 - name: Oregon State University
-  url: "https://ceoas.oregonstate.edu"
+  url: "https://ceoas.oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Eric is a first year graduate student at Oregon State University studying physical oceanography with a focus on polar processes. He is on the SASSIE program studying salinity and sea ice.
 
 interests:
-- High latitude processes
+- High-latitude processes
 - Salinity processes
 
 education:
