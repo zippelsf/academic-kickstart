@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "PhD Candidate"
+role: "PhD Student"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://ceoas.oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hayden is a PhD candidate at Oregon State University, and is a part of the Physics of Oceans and Atmospheres discipline group. She studies air/sea interactions, and their role in Bering Sea climate variability. 
+bio: Hayden graduated with a PhD from Oregon State University in September 2025. Hayden worked with Seth to study air-sea interactions and their role in Bering Sea climate variability. She is now an ASP Postdoctoral Fellow in the Climate and GLobal Dynamics (CGD) laboratory at NSF NCAR. 
 
 interests:
 - Air-sea interactions
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Physical Oceanography and Atmospheric Science 
+    institution: Oregon State University, College of Earth, Ocean, and Atmospheric Sciences
+    year: 2025
   - course: M.S. in Physical Oceanography and Atmospheric Science 
     institution: Oregon State University, College of Earth, Ocean, and Atmospheric Sciences
     year: 2021
@@ -59,12 +62,12 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ehayden@ucar.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Lab Members 
+- Alumni
 ---
 
-Emily E. Hayden (Hayden) is a PhD candidate at Oregon State University, and is a part of the Physics of Oceans and Atmospheres discipline group. She studies large-scale, high-latitude air-sea interactions and their role in climate variability and change in the Bering Sea. When Hayden is not in the lab, she enjoys mountain biking, gardening, skiing, and reading. 
+Emily E. Hayden (Hayden) graduated with a PhD from Oregon State University in September 2025. Hayden worked with Seth to study air-sea interactions and their role in Bering Sea climate variability. She is now an ASP Postdoctoral Fellow in the Climate and GLobal Dynamics (CGD) laboratory at NSF NCAR. 
